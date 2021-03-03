@@ -1,6 +1,6 @@
 const number = document.getElementById('number')
 const run = document.getElementById('run')
-let answer = document.getElementById('answer')
+let answer = document.getElementById('answer') 
 
 
 function tabuada () {
